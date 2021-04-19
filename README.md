@@ -34,6 +34,7 @@ There are layers upon layers of nested functions within the game of baseball. Yo
 5. next type `npm run test:watch` in your terminal
 6. Complete your work making regular commits, once you have all your tests passing and you are ready to submit your work please see canvas for instructions on how to submit
 
+
 ### Task 2a - MVP code
 
 Find the file `index.js` and complete the tasks.

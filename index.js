@@ -62,8 +62,10 @@ Use the inning function below to do the following:
 NOTE: This will be a callback function for the tasks below
 */
 
-function inning(/*Code Here*/){
-    /*Code Here*/
+function inning(){
+  const min = 0;
+  const max = 2;
+  return Math.floor(Math.random()*3)
 }
 
 
